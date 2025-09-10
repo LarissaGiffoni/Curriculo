@@ -11,6 +11,20 @@ Início: 2025 | 1º semestre | Curso em andamento
 🌎 Inglês – Avançado (em formação)
 
 🌍 Francês – Intermediário (em formação)
+## 💼 Experiências Profissionais
+**Leal — Assistente de Cobrança e Atendimento ao Cliente (Efetivada | 2022–2023)**  
+- Acompanhamento de rotinas de cobrança e atendimento direto a clientes.  
+- Resolução de demandas financeiras e suporte à equipe.  
+- Melhoria do relacionamento com clientes e organização de processos.
+
+**Super Estágios (NUDOC) — Estagiária Administrativa (02/2020 – 08/2020)**  
+- Execução de atividades dentro do prazo; entrosamento e trabalho em equipe.  
+- Proatividade e sugestões de melhoria.  
+- Cumprimento de instruções e comunicação clara.
+- ### Monitoria Voluntária de Inglês — CIL (Centro Interescolar de Línguas) | 2025-atual
+Aulas de reforço em inglês para estudantes, com foco em gramática, vocabulário e conversação.
+
+
 ## Cursos Complementares
  Fundação Bradesco – Escola Virtual
 
@@ -18,6 +32,8 @@ Início: 2025 | 1º semestre | Curso em andamento
 - Fundamentos de Lógica de Programação
 - Fundamentos de TI
 - Segurança da Informação (básico)
+- Versionamento de Código com Git e GitHub - DIO — [Ver certificado](certificado-git-github-dio.pdf)
+
 ## Habilidades Técnicas
 - Lógica de Programação (Python) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -29,9 +45,9 @@ Início: 2025 | 1º semestre | Curso em andamento
 - Web básico: HTML, CSS, JavaScript (noções) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
 ## Projetos
-- CRUD de cadastro de usuários em Python + SQLite
-- Checklist de requisitos para aplicação web simples
-- Sistema de tarefas em Python com interface básica em Tkinter
+- Portfólio Pessoal — [Site](https://larissagiffoni.github.io/portifolioHUB/) | [Código](https://github.com/LarissaGiffoni/portifolioHUB)  
+- Currículo Online — [Código](https://github.com/LarissaGiffoni/Curriculo)  
+- dio-lab-open-source — [Código](https://github.com/LarissaGiffoni/dio-lab-open-source)
 ## Competências
 - Facilidade de aprendizado e adaptabilidade
 - Proatividade e organização

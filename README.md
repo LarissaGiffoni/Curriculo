@@ -26,20 +26,20 @@ Aulas de reforço em inglês para estudantes, com foco em gramática, vocabulár
 
 
 ## Cursos Complementares
-Introdução à Programação – Fundação Bradesco
-Fundamentos de Lógica de Programação – Fundação Bradesco
-Microsoft Excel 2010 – Básico — Fundação Bradesco Ver certificado
-Sistemas Operacionais — Conceitos Básicos — Fundação Bradesco Ver certificado
-Projetos de Sistemas de TI — Fundação Bradesco Ver certificado
-Aprendendo na Web — Fundação Bradesco Ver certificado
-Fundamentos de TI – Fundação Bradesco Ver certificado
-Segurança da Informação (básico) – Fundação Bradesco
-Versionamento de Código com Git e GitHub — DIO
-IA responsável: como aplicar os princípios de IA com o Google Cloud 
-Introdução aos modelos de linguagem grandes
-Introdução à IA generativa
-Introdução à IA responsável
-IA generativa: para além do chatbot
+- Introdução à Programação – Fundação Bradesco
+- Fundamentos de Lógica de Programação – Fundação Bradesco
+- Microsoft Excel 2010 – Básico — Fundação Bradesco Ver certificado
+- Sistemas Operacionais — Conceitos Básicos — Fundação Bradesco Ver certificado
+- Projetos de Sistemas de TI — Fundação Bradesco Ver certificado
+- Aprendendo na Web — Fundação Bradesco Ver certificado
+- Fundamentos de TI – Fundação Bradesco Ver certificado
+- Segurança da Informação (básico) – Fundação Bradesco
+- Versionamento de Código com Git e GitHub — DIO
+- IA responsável: como aplicar os princípios de IA com o Google Cloud 
+- Introdução aos modelos de linguagem grandes
+- Introdução à IA generativa
+- Introdução à IA responsável
+- IA generativa: para além do chatbot
 
 ## Habilidades Técnicas
 - Lógica de Programação (Python) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

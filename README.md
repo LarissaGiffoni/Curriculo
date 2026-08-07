@@ -5,7 +5,7 @@ Estudante de Engenharia de Software com conhecimentos em Python, Git & GitHub e 
 ## 📚 Formação Acadêmica
 Engenharia de Software – Centro Universitário de Brasília (CEUB)
 
-Início: 2025 | 1º semestre | Curso em andamento
+Início: 2025 | 3º semestre | Curso em andamento
 
 ## Idiomas
 🌎 Inglês – Avançado (em formação)
@@ -21,7 +21,7 @@ Início: 2025 | 1º semestre | Curso em andamento
 - Execução de atividades dentro do prazo; entrosamento e trabalho em equipe.  
 - Proatividade e sugestões de melhoria.  
 - Cumprimento de instruções e comunicação clara.
-- ### Monitoria Voluntária de Inglês — CIL (Centro Interescolar de Línguas) | 2025-atual
+- ### Monitoria Voluntária de Inglês — CIL (Centro Interescolar de Línguas) | 2025-2025
 Aulas de reforço em inglês para estudantes, com foco em gramática, vocabulário e conversação.
 
 
